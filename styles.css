@@ -265,8 +265,8 @@ footer p:last-child  {
     /*EMBEDED YOUTUBE VIDEO*/
 
     iframe {
-        width: 450px;
-        height : 270px;
+        width: 448px;
+        height : 252px;
     }
 }
 
@@ -333,8 +333,8 @@ footer p:last-child  {
 
 @media screen and (max-width: 520px) {
     iframe {
-        width: 350px;
-        height: 200px;
+        width: 338px;
+        height: 190px;
         }
 }
 
